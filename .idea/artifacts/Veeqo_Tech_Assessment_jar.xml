@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Veeqo-Tech-Assessment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Veeqo_Tech_Assessment_jar</output-path>
+    <root id="archive" name="Veeqo-Tech-Assessment.jar">
+      <element id="module-output" name="Veeqo-Tech-Assessment" />
+    </root>
+  </artifact>
+</component>
